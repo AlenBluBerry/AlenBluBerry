@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlenBluBerry
 - 👀 I’m interested in web development, AI, LLM's :) 
-- 🌱 I’m currently pursuing B.E 
-- 💞️ I’m looking to collaborate on unique llms
+- 🌱 I’m a B.Sc in CS first year student ;) 
+- 💞️ I’m looking to collaborate on unique llms,ui and ux web development.
 
 - 
 
