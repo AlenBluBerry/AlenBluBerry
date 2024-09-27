@@ -26,3 +26,6 @@
 [![](https://visitcount.itsvg.in/api?id=AlenBluBerry &icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<a href="https://app.daily.dev/alenbluberry"><img src="https://api.daily.dev/devcards/v2/09QVivkggxMIWb8C4u1V3.png?type=default&r=aab" width="356" alt="Alen Bluberry's Dev Card"/></a>
