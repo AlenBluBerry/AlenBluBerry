@@ -68,6 +68,14 @@ Currently pursuing **B.Sc in Computer Science** and exploring the fusion of **UI
 
 ---
 
+<div align="center" style="font-family:'Poppins',sans-serif; background:rgba(255,255,255,0.05); border-radius:16px; padding:20px; backdrop-filter:blur(6px); width:fit-content; margin:auto;">
+  <h3 style="color:#00BCD4;">🪙 My Holopin Badge Wall</h3>
+  <a href="https://holopin.io/@alenbluberry" target="_blank">
+    <img src="https://holopin.me/alenbluberry" alt="@AlenBluBerry’s Holopin Badges" width="800" style="border-radius:12px;"/>
+  </a>
+</div>
+
+
 ### ✍️ Random Dev Quote
 
 <div align="center" style="font-family:'Poppins',sans-serif;">
