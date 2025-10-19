@@ -70,9 +70,13 @@ Currently pursuing **B.Sc in Computer Science** and exploring the fusion of **UI
 
 ### ✍️ Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</p>
+<div align="center" style="font-family:'Poppins',sans-serif;">
+  <h3 style="background:linear-gradient(90deg,#00BCD4,#7C4DFF); -webkit-background-clip:text; color:transparent; font-weight:700;">
+    ✍️ Developer Wisdom of the Day
+  </h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" style="border-radius:12px; box-shadow:0px 0px 15px rgba(124,77,255,0.6);"/>
+  <p style="font-size:13px; color:#B0BEC5;">💡 Keep learning, keep building, keep shipping 🚀</p>
+</div>
 
 ---
 
