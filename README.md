@@ -26,16 +26,16 @@ Currently pursuing **B.Sc in Computer Science** and exploring the fusion of **UI
 
 <p align="center">
   <a href="https://github.com/AlenBluBerry" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" style="margin: 0 10px;" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="55" style="margin: 8px; border-radius:12px;" />
   </a>
   <a href="https://linkedin.com/in/alenbluberry" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" style="margin: 0 10px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="55" style="margin: 8px; border-radius:12px;" />
   </a>
   <a href="https://twitter.com/AlenBluBerry" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="45" style="margin: 0 10px;" />
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="55" style="margin: 8px; border-radius:12px;" />
   </a>
   <a href="https://app.daily.dev/alenbluberry" target="_blank">
-    <img src="https://raw.githubusercontent.com/AlenBluBerry/assets/main/dailydev.svg" width="45" style="margin: 0 10px;" />
+    <img src="https://skillicons.dev/icons?i=devto&theme=dark" width="55" style="margin: 8px; border-radius:12px;" />
   </a>
 </p>
 
