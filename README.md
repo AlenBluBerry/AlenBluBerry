@@ -25,10 +25,18 @@ Currently pursuing **B.Sc in Computer Science** and exploring the fusion of **UI
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/AlenBluBerry" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
-  <a href="https://linkedin.com/in/alenbluberry" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="https://twitter.com/AlenBluBerry" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
-  <a href="https://app.daily.dev/alenbluberry" target="_blank"><img src="https://skillicons.dev/icons?i=devto" width="45"/></a>
+  <a href="https://github.com/AlenBluBerry" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" style="margin: 0 10px;" />
+  </a>
+  <a href="https://linkedin.com/in/alenbluberry" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" style="margin: 0 10px;" />
+  </a>
+  <a href="https://twitter.com/AlenBluBerry" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="45" style="margin: 0 10px;" />
+  </a>
+  <a href="https://app.daily.dev/alenbluberry" target="_blank">
+    <img src="https://raw.githubusercontent.com/AlenBluBerry/assets/main/dailydev.svg" width="45" style="margin: 0 10px;" />
+  </a>
 </p>
 
 ---
