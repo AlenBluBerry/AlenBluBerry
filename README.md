@@ -3,6 +3,8 @@
 👋 Hi, I’m @AlenBluBerry<br><br>👀 I’m interested in web development, AI, LLM's :)<br><br>🌱 I’m a B.Sc in CS first year student ;)<br><br>💞️ I’m looking to collaborate on unique llms,ui and ux web development.
 
 
+[![An image of @alenbluberry's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alenbluberry)](https://holopin.io/@alenbluberry)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alenbluberry ) 
 
